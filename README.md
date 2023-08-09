@@ -1,5 +1,7 @@
 # React Application for time tracking
 
+Visit the site here: https://custom-time-tracking.netlify.app
+
 ## Running the app
 
 1. Ensure you have `npm` installed.
